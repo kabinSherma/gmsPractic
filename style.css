@@ -373,7 +373,7 @@ h4{
     /* background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Photo/dad\ haru\ ko.jpg); */
     width: 100%;
     height: 60vh;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(dad haru ko.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(dad\ haru\ ko.jpg.jpg);
     background-size: cover;
     position: relative;
     background-position: center;
