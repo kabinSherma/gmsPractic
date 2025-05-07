@@ -232,6 +232,9 @@ P{
     .nav-links li :hover::after{
         width: 0;
     }
+    .footer li{
+        font-size: 1rem;
+    }
 
 }
 /* -----facility----- */
@@ -319,6 +322,7 @@ P{
 .foo-ter{
     display: flex;
     margin-top: 50px;
+    flex-wrap: wrap;
 }
 .footer .logo{
     height: 150px;
